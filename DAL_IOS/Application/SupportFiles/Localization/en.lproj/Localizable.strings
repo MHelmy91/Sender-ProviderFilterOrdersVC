@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  Created by on 11/5/18.
+  Copyright © 2018 ocs. All rights reserved.
+*/
+
+//MARK: - 
+"Hello" = "Hello";
+"SAR.full" = "SAR";
+"SAR.short" = "SAR";
+"camera.lan" = "Camera";
+"photo.library.lan" = "Gallery";
+"cancel.lan" = "Cancel";
+
+//MARK: - Provider Filter Orders VC
+"Search" = "Search";
+"Cancel" = "Cancel";
+"Search Filter" = "Search Filter";
+"Categorized By Date" = "Categorized By Date";
+"Payment Method" = "Payment Method";
+"Order Status" = "Order Status";
+"All" = "All";
+"Cash" = "Cash";
+"Visa" = "Visa";
+"Mada" = "Mada";
+"Preparation In Progress" = "Preparation In Progress";
+"Ready" = "Ready";
+"Show More" = "Show More";
+
+//MARK: -
